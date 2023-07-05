@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0% auto;
+	padding:0% auto;
+}
+row{
+	width:600px;
+	
+}
+img{
+	width:650px;
+	height:150px
+}
